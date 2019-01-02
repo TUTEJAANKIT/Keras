@@ -1,0 +1,4 @@
+A coloured image is made up of small pixels. Each pixel is denoted by a number in the range 0-255. 
+Each pixel is denoted by the combination of three colors i.e blue red and green. where the integer corresponding to a colour denotes the intensity of the colour for that pixel.
+
+
